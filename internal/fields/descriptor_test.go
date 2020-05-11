@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/samsarahq/thunder/internal/fields"
+	"github.com/jacoblai/thunder/internal/fields"
 	"github.com/stretchr/testify/assert"
 )
 

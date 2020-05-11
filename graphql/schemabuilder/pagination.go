@@ -9,9 +9,9 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/samsarahq/thunder/batch"
-	"github.com/samsarahq/thunder/graphql"
-	"github.com/samsarahq/thunder/internal/filter"
+	"github.com/jacoblai/thunder/batch"
+	"github.com/jacoblai/thunder/graphql"
+	"github.com/jacoblai/thunder/internal/filter"
 	"golang.org/x/sync/errgroup"
 )
 

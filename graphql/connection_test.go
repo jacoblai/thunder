@@ -7,12 +7,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/samsarahq/thunder/batch"
-	"github.com/samsarahq/thunder/graphql"
-	"github.com/samsarahq/thunder/graphql/schemabuilder"
-	"github.com/samsarahq/thunder/internal"
-	"github.com/samsarahq/thunder/internal/testgraphql"
-	"github.com/samsarahq/thunder/reactive"
+	"github.com/jacoblai/thunder/batch"
+	"github.com/jacoblai/thunder/graphql"
+	"github.com/jacoblai/thunder/graphql/schemabuilder"
+	"github.com/jacoblai/thunder/internal"
+	"github.com/jacoblai/thunder/internal/testgraphql"
+	"github.com/jacoblai/thunder/reactive"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

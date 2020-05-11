@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/samsarahq/thunder/graphql"
-	"github.com/samsarahq/thunder/internal/testgraphql"
-	"github.com/samsarahq/thunder/reactive"
+	"github.com/jacoblai/thunder/graphql"
+	"github.com/jacoblai/thunder/internal/testgraphql"
+	"github.com/jacoblai/thunder/reactive"
 )
 
 func BenchmarkSimpleExecute(b *testing.B) {

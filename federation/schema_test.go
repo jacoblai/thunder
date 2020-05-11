@@ -6,10 +6,10 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/samsarahq/go/snapshotter"
-	"github.com/samsarahq/thunder/graphql"
-	"github.com/samsarahq/thunder/graphql/introspection"
-	"github.com/samsarahq/thunder/graphql/schemabuilder"
+	"github.com/jacoblai/go/snapshotter"
+	"github.com/jacoblai/thunder/graphql"
+	"github.com/jacoblai/thunder/graphql/introspection"
+	"github.com/jacoblai/thunder/graphql/schemabuilder"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

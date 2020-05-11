@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/samsarahq/thunder/graphql/schemabuilder"
-	"github.com/samsarahq/thunder/internal/testgraphql"
+	"github.com/jacoblai/thunder/graphql/schemabuilder"
+	"github.com/jacoblai/thunder/internal/testgraphql"
 	"github.com/satori/go.uuid"
 )
 
